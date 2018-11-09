@@ -1,0 +1,75 @@
+[
+{
+  desc: 'Pizza Hut',
+  lat: '40.096077',
+  long: '-76.1116437',
+  address_1: '633 W Main St'
+  address_city: 'New Holland',
+  address_zip: '17557',
+  address_state: 'PA'
+},{
+  desc: 'Liberty Fire',
+  lat: '40.095823',
+  long: '-76.1099387',
+  address_1: '622 W Main St'
+  address_city: 'New Holland',
+  address_zip: '17557',
+  address_state: 'PA'
+},{
+  desc: 'NH Family Restaurant',
+  lat: '40.095667',
+  long: '-76.1105287',
+  address_1: '624 W Main St'
+  address_city: 'New Holland',
+  address_zip: '17557',
+  address_state: 'PA'
+},{
+  desc: 'BB&T',
+  lat: '40.095708',
+  long: '-76.1141977',
+  address_1: '693 W Main St'
+  address_city: 'New Holland',
+  address_zip: '17557',
+  address_state: 'PA'
+},{
+  desc: 'Comfort Inn Amish Country',
+  lat: '40.095043',
+  long: '-76.1109787',
+  address_1: '626 W Main St'
+  address_city: 'New Holland',
+  address_zip: '17557',
+  address_state: 'PA'
+},{
+  desc: 'Echo Data Group',
+  lat: '40.097366',
+  long: '-76.1138757',
+  address_1: '121 N Shirk Rd'
+  address_city: 'New Holland',
+  address_zip: '17557',
+  address_state: 'PA'
+},{
+  desc: 'West End Cleaners',
+  lat: '40.096971',
+  long: '76.1086397',
+  address_1: '99 Western Ave'
+  address_city: 'New Holland',
+  address_zip: '17557',
+  address_state: 'PA'
+},{
+  desc: 'Some house',
+  lat: '40.09899',
+  long: '-76.1070517',
+  address_1: '548 Westfield Dr'
+  address_city: 'New Holland',
+  address_zip: '17557',
+  address_state: 'PA'
+},{
+  desc: 'Shady Maple',
+  lat: '40.11858',
+  long: '-76.0338476',
+  address_1: '129 Toddy Dr'
+  address_city: 'East Earl',
+  address_zip: '17519',
+  address_state: 'PA'
+}
+]
